@@ -1,4 +1,4 @@
-## Hi, I'm Sanmi
+## Hi, I'm Oluwasanmi
 
 
 # 💫 About Me:
