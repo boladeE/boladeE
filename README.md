@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning more about software engineering and data science<br>
+🌱 Software Engineer // Machine Learning Engineer<br>
 ⚡ Fun fact: I can solve the Rubiks Cube under 15 seconds 
 
 
